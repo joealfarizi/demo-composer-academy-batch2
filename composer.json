@@ -1,0 +1,21 @@
+{
+    "name": "joealfarizi/demo-composer-academy-batch2",
+    "description": "demo composer",
+    "keywords": ["demo composer"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "joealfarizi\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "joealfarizi",
+            "email": "muhammad.hasan@mail.sirclo.com"
+        }
+    ],
+    "license": "MIT"
+}
